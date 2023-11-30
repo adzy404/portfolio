@@ -56,6 +56,15 @@ a {
     border-bottom: 3px solid white;
 }
 
+#profile {
+    position: absolute;
+    width: 200px;
+    border: 3px solid white;
+    border-radius: 100px;
+    left: 55vw;
+    top: 20vh;
+}
+
 h2 {
     display: inline-block;
     position: relative;
